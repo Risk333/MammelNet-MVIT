@@ -1,9 +1,9 @@
 # MammelNet-MVIT
 Mammal detection and behavior recognition using the MVIT model and the MammalNet dataset.
 
-Details:
 Course Project
 Course Name: Computer Vision (EE511)
+
 
 Reference: 
 1. MammalNet: A Large-scale Video Benchmark for Mammal Recognition and Behavior Understanding
