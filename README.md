@@ -3,7 +3,7 @@ Mammal detection and behavior recognition using the MVIT model and the MammalNet
 
 Course Name: Computer Vision (EE511)
 
-Please Note: It's an ongoing Project
+Please Note: It's an ongoing Project.//
 The branch will be made public after completion.
 
 Reference: 
